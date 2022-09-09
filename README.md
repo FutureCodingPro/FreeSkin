@@ -1,4 +1,4 @@
 # FreeSkin
 Freecodecamp Projects
 # This is how you setup the project
-I love it here. 
+I love it here. Afterwards, upload other projects.
