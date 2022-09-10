@@ -1,0 +1,53 @@
+** start of undefined **
+
+<h1 id="title"> Skincare Survey</h1>
+
+  <p id="description"> This survey is to help you figure out your skin type.</p>
+
+<form id="survey-form">
+
+<fieldset>
+  <label>Enter Your Name: <input id="name" type="text" required placeholder="Enter Your name" /></label>
+  <label>Enter Your Email: <input id="email" type="email" required placeholder="Enter Your Email" /></label>
+  <label>Phone Number (Optional): <input id="number" type="number" placeholder="Enter Your Phone Number" min="0" step="5" max="100"/><label>
+    </fieldset>
+
+    <fieldset>
+      <label id="name-label">Name <input id="name" type="text" placeholder="Enter Your Name" /></label>
+      <label id="email-label">Email <input id="email" type="email" placeholder="Enter Your Email" /></label>
+      <label id="number-label">Number <input id="number" type="number" placeholder="Enter Your Phone Number" /></label>
+      </fieldset>
+
+      <select id="dropdown">
+        <option> Select Skin Type</option>
+        <option>Oily </option>
+        <option>Dry </option>
+        <option>Combination </option>
+        </select>
+
+        <label>
+          What is your skin type?
+
+          <input type="radio" value="Yes" name="user-recommend">Yes </label>
+          <input type="radio" value="No" name="user-recommend">No </label>
+
+<input type="checkbox" value="Yes">
+<input type="checkbox" value="No">
+<textarea>
+
+  </textarea>
+  
+  <input id="submit" type="submit">
+
+
+** end of undefined **
+
+** start of undefined **
+
+#name {
+  type: text
+  
+}
+
+** end of undefined **
+
